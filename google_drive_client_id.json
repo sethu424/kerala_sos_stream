@@ -1,11 +1,11 @@
 {
   "type": "service_account",
   "project_id": "kerala-sos",
-  "private_key_id": "01859bfe5a3e40b296be1c6903d52fb168f235bb",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC7l2bx4xSJ6wTv\na+7Yvsoh5+eQTjmGgtEDHFwNubWH4ZEoLcEi483B1G71z5bUn3vy0veF00gqLncp\ntRkOESj9pgf32K8VRS9+oxK7qqVm38Zm2/+x8b/hLOlTKUyhCBtTfXrkBuLsDQjt\nMkbpoQLAB579HqYLhNeHZ2lxerQEUCPrJlKBlT0LKcaGeFvmqgfU/PkqdHuUaeq7\ncZXUdbdCvj+Rg/TD3tsIuCxm7NOQwOwzexMgJDUJaI8itpGkjMd7FnW9rKqGZPSo\nX4gxFO20G9R0dN/bnqGJuQSOcEYpx35/gsbKJ3ZsJfdhrNah95jvgOnATWWeF/IT\niYDBawW3AgMBAAECggEAE0eOsXp8oGYSlka5//Wv0YdDgc3AVMY6E/9EqLZ25TW2\nFPKK4HqYKX0bQFEq98RCWWT8QnlB9+/ZmGQ/5HW4CEWZmQvghqebJ4E8CiSSJj4G\nZojiwReO+GYEvuLGOOCb6ltBl5DrnoYCblpV9mnxXeoKmYoeV526BvUGXb7WJIEo\n82WLbx1YnXdZthce+gTUabwW9VzYRGUkrBKTOpU8wTyEELiJWnuJ6to4DdYsw1Fx\nYX+ZedDk0r3l6hkoEmXwpaFWQArGr09sCCTpzCm8rHN5qeQEIGpBLDW6SJHTgKPN\nWVHLO3SecXp+j7rmoHFwQUPVBnvZMtO9fLDAnww92QKBgQDj9MqVWe+esLp8uZfT\nSZ5PKivBxfhGjV72j/ccqDwRx06O3MpVWMeIzOB5B5nUzFTum9p5Thy1uTe6H3pk\nKkSXMs29peqvjFJPIg0ROop4kVfeDRLWNcy6sHofxPGckDCGpRaiZVS4tEGZUF4K\nnBd5y4yimk9xXd6NGBBObLaMzwKBgQDSq16daZkzSwYiMtuXEe0qdaAkKZmVAasK\nBBfZ6j7Nd5ZVHiKdpnaIs+c/08VMlonztmoKvn+TsvunTwT786PEIQ+US1VAR8Z3\nZmXZzIDPUhRJgzKahCZVDYxCJDIX7+5sjQO7v+BBsifA3Bk/7tck8qezXOrxgfXr\nSOLAM6TCmQKBgC6aHshFqJ0SmC1ja8yAImMgxe1JYaZaxG03pVcwdYdU7ZR7QsoL\n6k7nQ4S6rxI3660UI6fk9i2YffII+WZ81aTrd/AreT0GPNV8qps5EpHvdL0qgw1T\n1lTcOzs/cf2F5MXB/kyY1qckAr0rFu6oVoxJtqiPT2pnvFWv87V0uCU1AoGBALDi\niN/c0XB69txyHWSb/amf9+VFNJojO2x+gVRMVY0JcyVm1yPNqEsh2vIBqvCimZQT\nPrhkuRPXvWr+cy3lpUTBiaY3Fo6RdXe9d5lHF4R742LSEQQiH1lctb63S4RDxcpJ\nILBc7DvdDXnmlCDVNrnkMKDuTKqZN1Xl7dX5xsZJAoGBAKkofO0fbBSkB/AVAmjO\nh52/sv9iOYwanqq9aEO4VmQA/RPYTAqmi6QqOraquf5vYGqNulFIR71c6moUrTfj\n/Nm1z7qZU5r/yXJJaw0UqRR4FS36LUPvNcYYfc1WopBXPL+bxTevm6nLJ9Qb7Ktt\nr0OY7mYfOGnp8x1qmQnv3KuT\n-----END PRIVATE KEY-----\n",
+  "private_key_id": "",
+  "private_key": "",
   "client_email": "kerala-sos-excel-data@kerala-sos.iam.gserviceaccount.com",
-  "client_id": "108595986823055279964",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "client_id": "",
+  "auth_uri": "",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
   "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kerala-sos-excel-data%40kerala-sos.iam.gserviceaccount.com"
