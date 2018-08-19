@@ -20,10 +20,10 @@ from googletrans import Translator
 
 # In[9]:
 
-consumer_key="TfGMXi0NcyrOeWC2HYwrFg"
-consumer_secret="FnYH4BWoY19H0HGeSvsIdiyibYwObk1RhCjYxeqNFM"
-access_token="252066878-2RIwVDuw9UoIcl38Q5WMj5EuAuQ7cfclFVQmGGEJ"
-access_token_secret="2pbT8h9nKiyCPwn3mnXZhSkRivfEOmjeX3pcSzRNJvsVI"
+consumer_key="your_consumer_key"
+consumer_secret="your_consumer_secret"
+access_token="your_access_token"
+access_token_secret="your_access_secret"
 target_list = ["#keralafloods", "#keralasos"]
 
 
