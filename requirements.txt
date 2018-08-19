@@ -1,0 +1,5 @@
+twarc
+googletrans
+Fuzzy
+gspread
+oauth2client
